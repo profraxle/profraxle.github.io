@@ -1,0 +1,116 @@
+
+
+nav{
+    align-content: center;
+    text-align: center;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.title {
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+h1,h2,h3 {
+    font-weight: 450;
+    color: #252321;
+}
+
+nav a, nav a:hover{
+    background-color: #9aaa9a;
+    box-shadow:2px 2px 2px #5a5f5a;
+    color: #252321;
+    display: inline-block;
+    width: 120px;
+    height:50px;
+    border-radius: 15px;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+}
+
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: "Tomorrow", sans-serif;
+    background-color: #f6efea;
+    color: #252321; 
+}
+
+.project{
+    background-color: #9aaa9a;
+    height:auto;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow:5px 5px 5px #5a5f5a;
+    display: flex;               
+    align-items: center;          
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.container{
+    display:flex;
+    justify-content: flex-end;
+    align-items: center;
+    height:100%;
+    max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.text-container{
+    flex-grow:1;
+}
+
+.slides{
+    display:none;
+}
+
+.prev,.next{
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+}
+
+.next{
+    right:0;
+    border-radius:3px 0 0 3px;
+}
+
+.prev:hover, .next:hover{
+    background-color: rgba(0,0,0,0.8);
+}
+.numberText {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+  }
+
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active, .dot:hover {
+    background-color: #717171;
+  }
+  
