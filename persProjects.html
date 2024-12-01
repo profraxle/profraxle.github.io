@@ -21,10 +21,7 @@
         <h2 class="title">4th Year Games Programming Student</h2>
        </div>
    
-       <div class="titleIcons">
-           <a href="https://fraxle.itch.io"><img src="images/icons/itch.png" height="42px" width="42px"></a>
-           <a href="https://www.linkedin.com/in/fraser-mccann-a6b131200/"><img src="images/icons/linkedin.png" height="42px" width="42px" ></a>
-       </div>
+      
 
     <nav>
         <a href="index.html">home</a>
@@ -35,6 +32,75 @@
     
 
     <h2>Personal Projects</h2>
+
+    <div class="project">
+        <div class="text-container">
+        <h3>Fishyphus</h3>
+        <p>Release: 2024 <a href="https://beeguy.itch.io/fishyphus">Download</a></p>
+        <p>Tools/Languages Used: Unreal Engine 5, C++</p>
+        <p>A creepy fishing simulator where you collect wacky items forever.</p>
+        <p>This game was created for AGDS halloween jam 2024. I programmed the item system for fished up items. I also used my PSX shaders to give the game a retro feel.</p>
+        </div>
+        <div class="img-container">
+            <div class="slides1">
+                <div class="numberText">1/4</div>
+                <img src="images/fishyphus/1.png">
+            </div>
+
+            <div class="slides1">
+                <div class="numberText">2/4</div>
+                <img src="images/fishyphus/2.png">
+            </div>
+
+            <div class="slides1">
+                <div class="numberText">3/4</div>
+                <img src="images/fishyphus/3.png">
+            </div>
+
+            <div class="slides1">
+                <div class="numberText">4/4</div>
+                <img src="images/fishyphus/4.png">
+            </div>
+
+            <a class="prev" onclick="plusSlides(-1,4)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1,4)">&#10095;</a>
+        </div>
+    </div>
+
+    <div class="project">
+        <div class="text-container">
+        <h3>Vanishing Act</h3>
+        <p>Release: 2024 <a href="https://beeguy.itch.io/vanishing-act">Download</a></p>
+        <p>Tools/Languages Used: Unreal Engine 5, C++</p>
+        <p>A survival horror game where you collect items and manage inventory space to finish a ritual to escape the feds!</p>
+        <p>This game was created for AGDS freshers jam 2024. For this project, I programmed the spatial inventory and item systems. I also programmed PSX shader effects to give this project a retro feel.</p>
+        </div>
+        <div class="img-container">
+            <div class="slides6">
+                <div class="numberText">1/4</div>
+                <img src="images/vanishingAct/1.png">
+            </div>
+
+            <div class="slides6">
+                <div class="numberText">2/4</div>
+                <img src="images/vanishingAct/2.png">
+            </div>
+
+            <div class="slides6">
+                <div class="numberText">3/4</div>
+                <img src="images/vanishingAct/3.png">
+            </div>
+
+            <div class="slides6">
+                <div class="numberText">4/4</div>
+                <img src="images/vanishingAct/4.png">
+            </div>
+
+            <a class="prev" onclick="plusSlides(-1,5)">&#10094;</a>
+            <a class="next" onclick="plusSlides(1,5)">&#10095;</a>
+        </div>
+    </div>
+
     <div class="project">
         <div class="text-container">
         <h3>Inpatient</h3>
@@ -44,22 +110,22 @@
         <p>This game was created for AGDS halloween jam 2023. My role was programmer/level designer.</p>
         </div>
         <div class="img-container">
-            <div class="slides1">
+            <div class="slides5">
                 <div class="numberText">1/4</div>
                 <img src="images/inpatient/1.png">
             </div>
 
-            <div class="slides1">
+            <div class="slides5">
                 <div class="numberText">2/4</div>
                 <img src="images/inpatient/2.png">
             </div>
 
-            <div class="slides1">
+            <div class="slides5">
                 <div class="numberText">3/4</div>
                 <img src="images/inpatient/3.png">
             </div>
 
-            <div class="slides1">
+            <div class="slides5">
                 <div class="numberText">4/4</div>
                 <img src="images/inpatient/4.png">
             </div>
@@ -183,13 +249,15 @@
 
 
 <script>
-    let slideIndex = [1,1,1,1];
-    let slideID = ["slides1","slides2","slides3","slides4"];
+    let slideIndex = [1,1,1,1,1,1];
+    let slideID = ["slides1","slides2","slides3","slides4","slides5","slides6"];
 
     showSlides(1,0);
     showSlides(1,1);
     showSlides(1,2);
     showSlides(1,3);
+    showSlides(1,4);
+    showSlides(1,5);
 
     // Next/previous controls
     function plusSlides(n, no) {

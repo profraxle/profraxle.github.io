@@ -20,7 +20,7 @@ nav{
 
 h1,h2,h3 {
     font-weight: 450;
-    color: #252321;
+    color: #ce9eff;
 }
 
 .img-container{
@@ -52,10 +52,10 @@ h1,h2,h3 {
   }
 
 
-nav a, nav a:hover{
-    background-color: #9aaa9a;
-    box-shadow:2px 2px 2px #5a5f5a;
-    color: #252321;
+nav a {
+    background-color: #8e36fb;
+    box-shadow:2px 2px 2px #282828;
+    color: #ffffff;
     display: inline-block;
     width: 120px;
     height:50px;
@@ -64,6 +64,12 @@ nav a, nav a:hover{
     vertical-align: middle;
     text-decoration: none;
     line-height: 120%;
+
+    
+}
+
+nav a:hover{
+    background-color: #7906f9;
 }
 
 
@@ -80,24 +86,22 @@ nav a, nav a:hover{
     vertical-align: middle;
 }
 
-nav a:hover{
-    background-color: #8d9a8d;
-}
+
 
 body{
     margin-left: 20%;
     margin-right: 20%;
     font-family: "Tomorrow", sans-serif;
-    background-color: #ffffff;
-    color: #252321; 
+    background-color: #121212;
+    color: #ffffff;
 }
 
 .project{
-    background-color: #9aaa9a;
+    background-color: #282828;
     height:auto;
     padding: 10px;
     border-radius: 15px;
-    box-shadow:5px 5px 5px #5a5f5a;
+    box-shadow:5px 5px 5px #332b3a;
     display: flex;               
     align-items: center;          
     justify-content: space-between;
@@ -148,7 +152,7 @@ body{
 }
 
 .prev:hover, .next:hover{
-    background-color: rgba(0,0,0,0.8);
+    background-color: #121212;
 }
 .numberText {
     position:absolute;
@@ -157,20 +161,6 @@ body{
     padding: 8px 12px;
 }
 
-.dot {
-    cursor: pointer;
-    height: 15px;
-    width: 15px;
-    margin: 0 2px;
-    background-color: #bbb;
-    border-radius: 50%;
-    display: inline-block;
-    transition: background-color 0.6s ease;
-}
-  
-.active, .dot:hover {
-    background-color: #717171;
-}
 
 
   
