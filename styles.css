@@ -181,6 +181,19 @@ body{
         margin-left: 10%;
         margin-right: 10%;
     }
+
+    .project{
+        display:block;
+    }
+
+    .text-container{
+        width:100%
+    }
+    .img-container{
+       
+        width:100%;
+        
+    }
   }
 
 
