@@ -194,6 +194,11 @@ body{
         width:100%;
         
     }
+
+    nav a {
+        font-size: 12px;
+        width: 80px;
+    }
   }
 
 
