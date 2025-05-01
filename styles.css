@@ -20,7 +20,7 @@ nav{
 
 h1,h2,h3 {
     font-weight: 450;
-    color: #ce9eff;
+    color: #72c560;
 }
 
 .img-container{
@@ -53,7 +53,7 @@ h1,h2,h3 {
 
 
 nav a {
-    background-color: #8e36fb;
+    background-color: #72c560;
     box-shadow:2px 2px 2px #282828;
     color: #ffffff;
     display: inline-block;
@@ -69,7 +69,7 @@ nav a {
 }
 
 nav a:hover{
-    background-color: #7906f9;
+    background-color: #72c560;
 }
 
 
@@ -102,7 +102,7 @@ body{
     height:auto;
     padding: 10px;
     border-radius: 5px;
-    box-shadow:3px 3px 3px #332b3a;              
+    box-shadow:3px 3px 3px #1c3118;              
     justify-content: space-between;
     width: 100%;
     margin-bottom: 20px;
@@ -114,7 +114,7 @@ body{
     height:auto;
     padding: 10px;
     border-radius: 5px;
-    box-shadow:3px 3px 3px #332b3a;
+    box-shadow:3px 3px 3px #1c3118;
     display: flex;               
     align-items: center;          
     justify-content: space-between;
