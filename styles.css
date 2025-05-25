@@ -84,9 +84,7 @@ nav a {
     
 }
 
-nav a:hover{
-    background-color: #72c560;
-}
+
 
 
 .Centered
@@ -119,7 +117,7 @@ body{
     padding: 10px;
     border-radius: 5px;             
     justify-content: space-between;
-    width: 100%;
+    width: 50%;
     margin-bottom: 20px;
 
 }
@@ -232,6 +230,12 @@ body{
     nav a {
         font-size: 12px;
         width: 80px;
+    }
+
+    .titleIcons{
+    text-align: center;
+    width:auto;
+    height:25px;
     }
   }
 
