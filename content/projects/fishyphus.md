@@ -4,6 +4,8 @@ draft: false
 title: 'Fishyphus'
 hideMeta: true
 
+weight: 5
+
 tags: ["C++", "WWIse", "Unreal Engine", "Blueprint","Game Jam"]
 
 summary: |

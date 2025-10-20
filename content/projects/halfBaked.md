@@ -4,6 +4,8 @@ draft: false
 title: 'Half-Baked'
 hideMeta: true
 
+weight: 4
+
 summary: |
     Role: VR Mechanics Programmer
 
