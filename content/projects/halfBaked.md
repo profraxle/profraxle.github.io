@@ -19,7 +19,7 @@ tags: ["C++", "XR", "Unreal Engine", "Blueprint"]
 
 params:
     cover:
-        image: "img/halfbaked/1.png" # path to your image
+        image: "img/halfbaked/cover.png" # path to your image
         alt: "DirectX11 Cover Image"
         relative: true
         hidden: false
