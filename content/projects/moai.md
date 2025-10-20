@@ -3,6 +3,7 @@ date: '2025-10-06T00:41:33+01:00'
 draft: false
 title: 'Touching the Moai is Forbidden'
 hideMeta: true
+weight: 10
 
 summary: |
     Satirical horror based on 2010s viral hits.
