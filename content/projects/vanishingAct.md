@@ -16,7 +16,7 @@ summary: |
 
 params:
     cover:
-        image: "/img/vanishingact/1.png" # path to your image
+        image: "/img/vanishingAct/1.png" # path to your image
         alt: "DirectX11 Cover Image"
         relative: true
         hidden: false

@@ -16,7 +16,7 @@ summary: |
     Using the Meta Quest 3, projects onto the real environment while representing players with estimated full body avatars.
 params:
     cover:
-        image: "/img/RealityShift/3.png" # path to your image
+        image: "/img/realityShift/3.png" # path to your image
         alt: "DirectX11 Cover Image"
         relative: true
         hidden: false

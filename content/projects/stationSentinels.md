@@ -17,7 +17,7 @@ summary: |
 
 params:
     cover:
-        image: "/img/stationsentinels/1.png" # path to your image
+        image: "/img/stationSentinels/1.png" # path to your image
         alt: "DirectX11 Cover Image"
         relative: true
         hidden: false
