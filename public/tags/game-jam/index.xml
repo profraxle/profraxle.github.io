@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Game Jam on Fraser McCann</title>
+    <link>http://localhost:1313/tags/game-jam/</link>
+    <description>Recent content in Game Jam on Fraser McCann</description>
+    <image>
+      <title>Fraser McCann</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Oct 2025 00:41:33 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/game-jam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fishyphus</title>
+      <link>http://localhost:1313/projects/fishyphus/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/fishyphus/</guid>
+      <description>&lt;p&gt;Creepy fishing simulator where you collect wacky items forever&lt;/p&gt;
+&lt;br&gt;
+Created for for AGDS Spooky Jam 2024</description>
+    </item>
+    <item>
+      <title>Greatest of All Turtle</title>
+      <link>http://localhost:1313/projects/goat/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/goat/</guid>
+      <description>&lt;p&gt;A platformer where you can use your past self to get a leg up!&lt;/p&gt;
+&lt;p&gt;Jump on your corpses to succeed!&lt;/p&gt;
+&lt;br&gt; 
+&lt;p&gt;Created for AGDS Freshers Jam 2022&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Inpatient</title>
+      <link>http://localhost:1313/projects/inpatient/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/inpatient/</guid>
+      <description>&lt;p&gt;Psychological horror game over multiple days with the player slowly giving away parts of themselves.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Created for AGDS Spooky Jam 2023&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Rob-Bot</title>
+      <link>http://localhost:1313/projects/robbot/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/robbot/</guid>
+      <description>&lt;p&gt;Silly heist game where you control a robot dog through security cameras!&lt;/p&gt;
+&lt;br&gt;
+Created for AGDS Fresher Jam 2023</description>
+    </item>
+    <item>
+      <title>Touching the Moai is Forbidden</title>
+      <link>http://localhost:1313/projects/moai/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/moai/</guid>
+      <description>&lt;p&gt;Satirical horror based on 2010s viral hits.&lt;/p&gt;
+&lt;p&gt;Escape a creepy island while hunted by an evil Moai statue.&lt;/p&gt;
+&lt;br&gt;
+Created for AGDS Spooky Jam 2022
+</description>
+    </item>
+    <item>
+      <title>Vanishing Act</title>
+      <link>http://localhost:1313/projects/vanishingact/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/vanishingact/</guid>
+      <description>&lt;p&gt;PSX Survival horror with a spatial inventory.&lt;/p&gt;
+&lt;p&gt;Play as a witch performing a ritual to escape a monstrous federal agent!&lt;/p&gt;
+&lt;br&gt;
+Created for AGDS Freshers Jam 2024
+</description>
+    </item>
+  </channel>
+</rss>

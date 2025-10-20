@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DirectX11 on Fraser McCann</title>
+    <link>http://localhost:1313/tags/directx11/</link>
+    <description>Recent content in DirectX11 on Fraser McCann</description>
+    <image>
+      <title>Fraser McCann</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Oct 2025 00:41:33 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/directx11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DirectX 11 Project</title>
+      <link>http://localhost:1313/projects/dx11/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/dx11/</guid>
+      <description>&lt;p&gt;An island scene created in DirectX 11&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Created for the Graphics Programming with Shaders Module at Abertay University.&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>

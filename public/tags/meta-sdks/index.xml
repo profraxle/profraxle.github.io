@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Meta SDKs on Fraser McCann</title>
+    <link>http://localhost:1313/tags/meta-sdks/</link>
+    <description>Recent content in Meta SDKs on Fraser McCann</description>
+    <image>
+      <title>Fraser McCann</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Oct 2025 00:41:33 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/meta-sdks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reality Shift</title>
+      <link>http://localhost:1313/projects/realityshift/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/realityshift/</guid>
+      <description>&lt;h3 id=&#34;honours-project-artifact&#34;&gt;&lt;strong&gt;Honours Project Artifact&lt;/strong&gt;&lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;Mixed Reality card game app allowing gameplay online on your real tabletop!&lt;/p&gt;
+  &lt;br&gt;
+  Using the Meta Quest 3, projects onto the real environment while representing players with estimated full body avatars.</description>
+    </item>
+  </channel>
+</rss>

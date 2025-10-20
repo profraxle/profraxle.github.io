@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Fraser McCann</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Fraser McCann</description>
+    <image>
+      <title>Fraser McCann</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Oct 2025 00:41:33 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADORATE</title>
+      <link>http://localhost:1313/projects/adorate/</link>
+      <pubDate>Mon, 06 Oct 2025 00:15:09 +0100</pubDate>
+      <guid>http://localhost:1313/projects/adorate/</guid>
+      <description>&lt;h3 id=&#34;dare-academy-2025-runner-up-award-winner&#34;&gt;&lt;strong&gt;DARE Academy 2025 Runner Up Award Winner&lt;/strong&gt;&lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;Role: Generalist Programmer/Audio Programmer&lt;/p&gt;
+&lt;br&gt;
+Casual RTS Townbuilder! Build up your cult and fight off holy forces!
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Wishlist now on Steam!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>DirectX 11 Project</title>
+      <link>http://localhost:1313/projects/dx11/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/dx11/</guid>
+      <description>&lt;p&gt;An island scene created in DirectX 11&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Created for the Graphics Programming with Shaders Module at Abertay University.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Fishyphus</title>
+      <link>http://localhost:1313/projects/fishyphus/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/fishyphus/</guid>
+      <description>&lt;p&gt;Creepy fishing simulator where you collect wacky items forever&lt;/p&gt;
+&lt;br&gt;
+Created for for AGDS Spooky Jam 2024</description>
+    </item>
+    <item>
+      <title>Greatest of All Turtle</title>
+      <link>http://localhost:1313/projects/goat/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/goat/</guid>
+      <description>&lt;p&gt;A platformer where you can use your past self to get a leg up!&lt;/p&gt;
+&lt;p&gt;Jump on your corpses to succeed!&lt;/p&gt;
+&lt;br&gt; 
+&lt;p&gt;Created for AGDS Freshers Jam 2022&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Half-Baked</title>
+      <link>http://localhost:1313/projects/halfbaked/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/halfbaked/</guid>
+      <description>&lt;p&gt;Role: VR Mechanics Programmer&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;A wacky VR puzzle game where players assume the role of a gingerbread man with no legs, having to use their floppy, half-baked arms to drag themselves and climb to escape the clutches of the evil baker!&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Created for the Professional Project module at Abertay University with mentorship from NearLight&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Inpatient</title>
+      <link>http://localhost:1313/projects/inpatient/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/inpatient/</guid>
+      <description>&lt;p&gt;Psychological horror game over multiple days with the player slowly giving away parts of themselves.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Created for AGDS Spooky Jam 2023&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>RAT WARS</title>
+      <link>http://localhost:1313/projects/ratwars/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/ratwars/</guid>
+      <description>&lt;p&gt;Horde shooter with dynamic music from HEALTH&lt;/p&gt;
+&lt;p&gt;Gain score to progress the music, shoot on beat hear the drums, and dont miss shots to enable vocals!&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Created for the Audio Programming module at Abertay University&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Reality Shift</title>
+      <link>http://localhost:1313/projects/realityshift/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/realityshift/</guid>
+      <description>&lt;h3 id=&#34;honours-project-artifact&#34;&gt;&lt;strong&gt;Honours Project Artifact&lt;/strong&gt;&lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;Mixed Reality card game app allowing gameplay online on your real tabletop!&lt;/p&gt;
+  &lt;br&gt;
+  Using the Meta Quest 3, projects onto the real environment while representing players with estimated full body avatars.</description>
+    </item>
+    <item>
+      <title>Rob-Bot</title>
+      <link>http://localhost:1313/projects/robbot/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/robbot/</guid>
+      <description>&lt;p&gt;Silly heist game where you control a robot dog through security cameras!&lt;/p&gt;
+&lt;br&gt;
+Created for AGDS Fresher Jam 2023</description>
+    </item>
+    <item>
+      <title>Station Sentinels</title>
+      <link>http://localhost:1313/projects/stationsentinels/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/stationsentinels/</guid>
+      <description>&lt;p&gt;Top down shooter with procedural levels.&lt;/p&gt;
+&lt;p&gt;Made with Abertay&amp;rsquo;s Game Education Framework.&lt;/p&gt;
+&lt;p&gt;Features tile based level generation and A* Pathfinding for enemies.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Touching the Moai is Forbidden</title>
+      <link>http://localhost:1313/projects/moai/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/moai/</guid>
+      <description>&lt;p&gt;Satirical horror based on 2010s viral hits.&lt;/p&gt;
+&lt;p&gt;Escape a creepy island while hunted by an evil Moai statue.&lt;/p&gt;
+&lt;br&gt;
+Created for AGDS Spooky Jam 2022
+</description>
+    </item>
+    <item>
+      <title>Vanishing Act</title>
+      <link>http://localhost:1313/projects/vanishingact/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/vanishingact/</guid>
+      <description>&lt;p&gt;PSX Survival horror with a spatial inventory.&lt;/p&gt;
+&lt;p&gt;Play as a witch performing a ritual to escape a monstrous federal agent!&lt;/p&gt;
+&lt;br&gt;
+Created for AGDS Freshers Jam 2024
+</description>
+    </item>
+  </channel>
+</rss>

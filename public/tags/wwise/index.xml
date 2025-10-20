@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WWIse on Fraser McCann</title>
+    <link>http://localhost:1313/tags/wwise/</link>
+    <description>Recent content in WWIse on Fraser McCann</description>
+    <image>
+      <title>Fraser McCann</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Oct 2025 00:41:33 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wwise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ADORATE</title>
+      <link>http://localhost:1313/projects/adorate/</link>
+      <pubDate>Mon, 06 Oct 2025 00:15:09 +0100</pubDate>
+      <guid>http://localhost:1313/projects/adorate/</guid>
+      <description>&lt;h3 id=&#34;dare-academy-2025-runner-up-award-winner&#34;&gt;&lt;strong&gt;DARE Academy 2025 Runner Up Award Winner&lt;/strong&gt;&lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;Role: Generalist Programmer/Audio Programmer&lt;/p&gt;
+&lt;br&gt;
+Casual RTS Townbuilder! Build up your cult and fight off holy forces!
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+Wishlist now on Steam!&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Fishyphus</title>
+      <link>http://localhost:1313/projects/fishyphus/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/fishyphus/</guid>
+      <description>&lt;p&gt;Creepy fishing simulator where you collect wacky items forever&lt;/p&gt;
+&lt;br&gt;
+Created for for AGDS Spooky Jam 2024</description>
+    </item>
+    <item>
+      <title>RAT WARS</title>
+      <link>http://localhost:1313/projects/ratwars/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/ratwars/</guid>
+      <description>&lt;p&gt;Horde shooter with dynamic music from HEALTH&lt;/p&gt;
+&lt;p&gt;Gain score to progress the music, shoot on beat hear the drums, and dont miss shots to enable vocals!&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Created for the Audio Programming module at Abertay University&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+.header .logo a {
+  font-family: 'Poppins', sans-serif !important;
+  color: #ff5733 !important;
+}
+
+/* Post & page titles */
+.post-title,
+.single-title {
+  font-family: 'Poppins', sans-serif !important;
+  color: #00aaff !important;
+}
+body {
+  background-color: #ffeeee !important; /* test background */
+}
