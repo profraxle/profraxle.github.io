@@ -4,7 +4,7 @@ draft: false
 title: 'Vanishing Act'
 hideMeta: true
 
-weight:4
+weight: 4
 
 tags: ["C++", "Unreal Engine", "Blueprint", "Game Jam"]
 
