@@ -9,6 +9,10 @@ buildExpired: false
 
 googleAnalytics: UA-123-45
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 minify:
   disableXML: true
   minifyOutput: true
