@@ -2,9 +2,12 @@
 date: '2025-10-06T00:41:33+01:00'
 draft: false
 title: 'Half-Baked'
-hideMeta: true
 
 weight: 4
+
+hideMeta: true
+
+
 
 summary: |
     Role: VR Mechanics Programmer

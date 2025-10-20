@@ -14,9 +14,10 @@ tags: ["C++", "WWIse", "Unreal Engine", "Enemy AI", "Blueprint"]
 
 draft: false
 title: 'ADORATE'
+weight: 1
+
 hideMeta: true
 showTags: true
-weight: 1
 summary: |
   ### **DARE Academy 2025 Runner Up Award Winner**
   <br>
