@@ -3,7 +3,7 @@ date: '2025-10-06T00:41:33+01:00'
 draft: false
 title: 'Station Sentinels'
 hideMeta: true
-weight: 5
+weight: 7
 
 tags: ["C++", "Procedural Generation", "Pathfinding"]
 

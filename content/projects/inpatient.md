@@ -3,6 +3,7 @@ date: '2025-10-06T00:41:33+01:00'
 draft: false
 title: 'Inpatient'
 hideMeta: true
+weight: 7
 
 summary: |
     Psychological horror game over multiple days with the player slowly giving away parts of themselves.

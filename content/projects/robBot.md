@@ -3,6 +3,7 @@ date: '2025-10-06T00:41:33+01:00'
 draft: false
 title: 'Rob-Bot'
 hideMeta: true
+weight: 7
 
 summary: |
     Silly heist game where you control a robot dog through security cameras!
