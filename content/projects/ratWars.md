@@ -20,7 +20,7 @@ tags: ["C++", "WWIse", "Unreal Engine", "Enemy AI", "Blueprint"]
 params:
     cover:
         image: "/img/ratWars/cover.png" # path to your image
-        alt: "DirectX11 Cover Image"
+        alt: "RAT WARS Cover Image"
         relative: true
         hidden: false
         hiddenInList: false

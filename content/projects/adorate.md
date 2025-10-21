@@ -50,4 +50,7 @@ On this project I was a generalist programmer, taking on tasks such as:
 - Designing and implementing player and enemy abilities using Unreal's Gameplay Ability System
 - Implementing Audio and a dynamic music track using WWise
 
+
+The playtest for ADORATE is available now on Steam, where you can check out the progress we have made so far! We have big plans at Fishbowl Studio for full production, so make sure to wishlist the game!
+
 <iframe src="https://store.steampowered.com/widget/3892430/" frameborder="0" width="100%" height="190"></iframe>

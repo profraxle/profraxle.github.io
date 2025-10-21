@@ -18,7 +18,7 @@ summary: |
 params:
     cover:
         image: "/img/realityShift/3.png" # path to your image
-        alt: "DirectX11 Cover Image"
+        alt: "Reality Shift Cover Image"
         relative: true
         hidden: false
         hiddenInList: false

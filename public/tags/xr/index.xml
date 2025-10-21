@@ -14,6 +14,17 @@
     <lastBuildDate>Mon, 06 Oct 2025 00:41:33 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/xr/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Reality Shift</title>
+      <link>http://localhost:1313/projects/realityshift/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/realityshift/</guid>
+      <description>&lt;h3 id=&#34;honours-project-artifact&#34;&gt;&lt;strong&gt;Honours Project Artifact&lt;/strong&gt;&lt;/h3&gt;
+&lt;br&gt;
+&lt;p&gt;Mixed Reality card game app allowing gameplay online on your real tabletop!&lt;/p&gt;
+  &lt;br&gt;
+  Using the Meta Quest 3, projects onto the real environment while representing players with estimated full body avatars.</description>
+    </item>
+    <item>
       <title>Half-Baked</title>
       <link>http://localhost:1313/projects/halfbaked/</link>
       <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
@@ -24,17 +35,6 @@
 &lt;br&gt;
 &lt;p&gt;Created for the Professional Project module at Abertay University with mentorship from NearLight&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>Reality Shift</title>
-      <link>http://localhost:1313/projects/realityshift/</link>
-      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
-      <guid>http://localhost:1313/projects/realityshift/</guid>
-      <description>&lt;h3 id=&#34;honours-project-artifact&#34;&gt;&lt;strong&gt;Honours Project Artifact&lt;/strong&gt;&lt;/h3&gt;
-&lt;br&gt;
-&lt;p&gt;Mixed Reality card game app allowing gameplay online on your real tabletop!&lt;/p&gt;
-  &lt;br&gt;
-  Using the Meta Quest 3, projects onto the real environment while representing players with estimated full body avatars.</description>
     </item>
   </channel>
 </rss>

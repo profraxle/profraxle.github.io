@@ -28,13 +28,15 @@ Wishlist now on Steam!&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Fishyphus</title>
-      <link>http://localhost:1313/projects/fishyphus/</link>
+      <title>RAT WARS</title>
+      <link>http://localhost:1313/projects/ratwars/</link>
       <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
-      <guid>http://localhost:1313/projects/fishyphus/</guid>
-      <description>&lt;p&gt;Creepy fishing simulator where you collect wacky items forever&lt;/p&gt;
+      <guid>http://localhost:1313/projects/ratwars/</guid>
+      <description>&lt;p&gt;Horde shooter with dynamic music from HEALTH&lt;/p&gt;
+&lt;p&gt;Gain score to progress the music, shoot on beat hear the drums, and dont miss shots to enable vocals!&lt;/p&gt;
 &lt;br&gt;
-Created for for AGDS Spooky Jam 2024</description>
+&lt;p&gt;Created for the Audio Programming module at Abertay University&lt;/p&gt;
+</description>
     </item>
     <item>
       <title>Half-Baked</title>
@@ -49,6 +51,26 @@ Created for for AGDS Spooky Jam 2024</description>
 </description>
     </item>
     <item>
+      <title>Vanishing Act</title>
+      <link>http://localhost:1313/projects/vanishingact/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/vanishingact/</guid>
+      <description>&lt;p&gt;PSX Survival horror with a spatial inventory.&lt;/p&gt;
+&lt;p&gt;Play as a witch performing a ritual to escape a monstrous federal agent!&lt;/p&gt;
+&lt;br&gt;
+Created for AGDS Freshers Jam 2024
+</description>
+    </item>
+    <item>
+      <title>Fishyphus</title>
+      <link>http://localhost:1313/projects/fishyphus/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/fishyphus/</guid>
+      <description>&lt;p&gt;Creepy fishing simulator where you collect wacky items forever&lt;/p&gt;
+&lt;br&gt;
+Created for for AGDS Spooky Jam 2024</description>
+    </item>
+    <item>
       <title>Inpatient</title>
       <link>http://localhost:1313/projects/inpatient/</link>
       <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
@@ -59,17 +81,6 @@ Created for for AGDS Spooky Jam 2024</description>
 </description>
     </item>
     <item>
-      <title>RAT WARS</title>
-      <link>http://localhost:1313/projects/ratwars/</link>
-      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
-      <guid>http://localhost:1313/projects/ratwars/</guid>
-      <description>&lt;p&gt;Horde shooter with dynamic music from HEALTH&lt;/p&gt;
-&lt;p&gt;Gain score to progress the music, shoot on beat hear the drums, and dont miss shots to enable vocals!&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;Created for the Audio Programming module at Abertay University&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Rob-Bot</title>
       <link>http://localhost:1313/projects/robbot/</link>
       <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
@@ -77,17 +88,6 @@ Created for for AGDS Spooky Jam 2024</description>
       <description>&lt;p&gt;Silly heist game where you control a robot dog through security cameras!&lt;/p&gt;
 &lt;br&gt;
 Created for AGDS Fresher Jam 2023</description>
-    </item>
-    <item>
-      <title>Vanishing Act</title>
-      <link>http://localhost:1313/projects/vanishingact/</link>
-      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
-      <guid>http://localhost:1313/projects/vanishingact/</guid>
-      <description>&lt;p&gt;PSX Survival horror with a spatial inventory.&lt;/p&gt;
-&lt;p&gt;Play as a witch performing a ritual to escape a monstrous federal agent!&lt;/p&gt;
-&lt;br&gt;
-Created for AGDS Freshers Jam 2024
-</description>
     </item>
   </channel>
 </rss>

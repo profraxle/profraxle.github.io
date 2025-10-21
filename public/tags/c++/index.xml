@@ -28,23 +28,15 @@ Wishlist now on Steam!&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>DirectX 11 Project</title>
-      <link>http://localhost:1313/projects/dx11/</link>
+      <title>RAT WARS</title>
+      <link>http://localhost:1313/projects/ratwars/</link>
       <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
-      <guid>http://localhost:1313/projects/dx11/</guid>
-      <description>&lt;p&gt;An island scene created in DirectX 11&lt;/p&gt;
+      <guid>http://localhost:1313/projects/ratwars/</guid>
+      <description>&lt;p&gt;Horde shooter with dynamic music from HEALTH&lt;/p&gt;
+&lt;p&gt;Gain score to progress the music, shoot on beat hear the drums, and dont miss shots to enable vocals!&lt;/p&gt;
 &lt;br&gt;
-&lt;p&gt;Created for the Graphics Programming with Shaders Module at Abertay University.&lt;/p&gt;
+&lt;p&gt;Created for the Audio Programming module at Abertay University&lt;/p&gt;
 </description>
-    </item>
-    <item>
-      <title>Fishyphus</title>
-      <link>http://localhost:1313/projects/fishyphus/</link>
-      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
-      <guid>http://localhost:1313/projects/fishyphus/</guid>
-      <description>&lt;p&gt;Creepy fishing simulator where you collect wacky items forever&lt;/p&gt;
-&lt;br&gt;
-Created for for AGDS Spooky Jam 2024</description>
     </item>
     <item>
       <title>Half-Baked</title>
@@ -59,6 +51,36 @@ Created for for AGDS Spooky Jam 2024</description>
 </description>
     </item>
     <item>
+      <title>Vanishing Act</title>
+      <link>http://localhost:1313/projects/vanishingact/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/vanishingact/</guid>
+      <description>&lt;p&gt;PSX Survival horror with a spatial inventory.&lt;/p&gt;
+&lt;p&gt;Play as a witch performing a ritual to escape a monstrous federal agent!&lt;/p&gt;
+&lt;br&gt;
+Created for AGDS Freshers Jam 2024
+</description>
+    </item>
+    <item>
+      <title>Fishyphus</title>
+      <link>http://localhost:1313/projects/fishyphus/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/fishyphus/</guid>
+      <description>&lt;p&gt;Creepy fishing simulator where you collect wacky items forever&lt;/p&gt;
+&lt;br&gt;
+Created for for AGDS Spooky Jam 2024</description>
+    </item>
+    <item>
+      <title>DirectX 11 Project</title>
+      <link>http://localhost:1313/projects/dx11/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/dx11/</guid>
+      <description>&lt;p&gt;An island scene created in DirectX 11&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Created for the Graphics Programming with Shaders Module at Abertay University.&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Inpatient</title>
       <link>http://localhost:1313/projects/inpatient/</link>
       <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
@@ -69,17 +91,6 @@ Created for for AGDS Spooky Jam 2024</description>
 </description>
     </item>
     <item>
-      <title>RAT WARS</title>
-      <link>http://localhost:1313/projects/ratwars/</link>
-      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
-      <guid>http://localhost:1313/projects/ratwars/</guid>
-      <description>&lt;p&gt;Horde shooter with dynamic music from HEALTH&lt;/p&gt;
-&lt;p&gt;Gain score to progress the music, shoot on beat hear the drums, and dont miss shots to enable vocals!&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;Created for the Audio Programming module at Abertay University&lt;/p&gt;
-</description>
-    </item>
-    <item>
       <title>Station Sentinels</title>
       <link>http://localhost:1313/projects/stationsentinels/</link>
       <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
@@ -87,17 +98,6 @@ Created for for AGDS Spooky Jam 2024</description>
       <description>&lt;p&gt;Top down shooter with procedural levels.&lt;/p&gt;
 &lt;p&gt;Made with Abertay&amp;rsquo;s Game Education Framework.&lt;/p&gt;
 &lt;p&gt;Features tile based level generation and A* Pathfinding for enemies.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Vanishing Act</title>
-      <link>http://localhost:1313/projects/vanishingact/</link>
-      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
-      <guid>http://localhost:1313/projects/vanishingact/</guid>
-      <description>&lt;p&gt;PSX Survival horror with a spatial inventory.&lt;/p&gt;
-&lt;p&gt;Play as a witch performing a ritual to escape a monstrous federal agent!&lt;/p&gt;
-&lt;br&gt;
-Created for AGDS Freshers Jam 2024
 </description>
     </item>
   </channel>

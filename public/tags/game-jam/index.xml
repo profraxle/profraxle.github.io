@@ -14,6 +14,17 @@
     <lastBuildDate>Mon, 06 Oct 2025 00:41:33 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/game-jam/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Vanishing Act</title>
+      <link>http://localhost:1313/projects/vanishingact/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/vanishingact/</guid>
+      <description>&lt;p&gt;PSX Survival horror with a spatial inventory.&lt;/p&gt;
+&lt;p&gt;Play as a witch performing a ritual to escape a monstrous federal agent!&lt;/p&gt;
+&lt;br&gt;
+Created for AGDS Freshers Jam 2024
+</description>
+    </item>
+    <item>
       <title>Fishyphus</title>
       <link>http://localhost:1313/projects/fishyphus/</link>
       <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
@@ -21,17 +32,6 @@
       <description>&lt;p&gt;Creepy fishing simulator where you collect wacky items forever&lt;/p&gt;
 &lt;br&gt;
 Created for for AGDS Spooky Jam 2024</description>
-    </item>
-    <item>
-      <title>Greatest of All Turtle</title>
-      <link>http://localhost:1313/projects/goat/</link>
-      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
-      <guid>http://localhost:1313/projects/goat/</guid>
-      <description>&lt;p&gt;A platformer where you can use your past self to get a leg up!&lt;/p&gt;
-&lt;p&gt;Jump on your corpses to succeed!&lt;/p&gt;
-&lt;br&gt; 
-&lt;p&gt;Created for AGDS Freshers Jam 2022&lt;/p&gt;
-</description>
     </item>
     <item>
       <title>Inpatient</title>
@@ -53,6 +53,17 @@ Created for for AGDS Spooky Jam 2024</description>
 Created for AGDS Fresher Jam 2023</description>
     </item>
     <item>
+      <title>Greatest of All Turtle</title>
+      <link>http://localhost:1313/projects/goat/</link>
+      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
+      <guid>http://localhost:1313/projects/goat/</guid>
+      <description>&lt;p&gt;A platformer where you can use your past self to get a leg up!&lt;/p&gt;
+&lt;p&gt;Jump on your corpses to succeed!&lt;/p&gt;
+&lt;br&gt; 
+&lt;p&gt;Created for AGDS Freshers Jam 2022&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Touching the Moai is Forbidden</title>
       <link>http://localhost:1313/projects/moai/</link>
       <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
@@ -61,17 +72,6 @@ Created for AGDS Fresher Jam 2023</description>
 &lt;p&gt;Escape a creepy island while hunted by an evil Moai statue.&lt;/p&gt;
 &lt;br&gt;
 Created for AGDS Spooky Jam 2022
-</description>
-    </item>
-    <item>
-      <title>Vanishing Act</title>
-      <link>http://localhost:1313/projects/vanishingact/</link>
-      <pubDate>Mon, 06 Oct 2025 00:41:33 +0100</pubDate>
-      <guid>http://localhost:1313/projects/vanishingact/</guid>
-      <description>&lt;p&gt;PSX Survival horror with a spatial inventory.&lt;/p&gt;
-&lt;p&gt;Play as a witch performing a ritual to escape a monstrous federal agent!&lt;/p&gt;
-&lt;br&gt;
-Created for AGDS Freshers Jam 2024
 </description>
     </item>
   </channel>
