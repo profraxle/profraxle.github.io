@@ -134,10 +134,6 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: Blog
-      name: Blog
-      url: /Blog/
-      weight: 20
     - identifier: Projects
       name: Projects
       url: /Projects/
