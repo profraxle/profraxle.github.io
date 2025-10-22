@@ -17,12 +17,12 @@ summary: |
     Using the Meta Quest 3, projects onto the real environment while representing players with estimated full body avatars.
 params:
     cover:
-        image: "/img/realityShift/3.png" # path to your image
+        image: "/img/realityShift/2.png" # path to your image
         alt: "Reality Shift Cover Image"
         relative: true
         hidden: false
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
 
 ---
 A mixed reality tabletop card game client developed for the Meta Quest 3.
@@ -30,3 +30,8 @@ A mixed reality tabletop card game client developed for the Meta Quest 3.
 Developed for my honours project at Abertay University, Reality Shift allows people to play tabletop card games together over the internet in a shared XR environment.
 
 Developed in Unity 6, Meta's Mixed Reality SDKs have been used to allow for a hybrid gameplay experience, with digital objects being used in a real environment.
+
+{{< carousel >}}
+/img/realityShift/3.png
+/img/realityShift/2.png
+{{< /carousel >}}

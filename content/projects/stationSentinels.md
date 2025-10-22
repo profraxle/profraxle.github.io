@@ -23,8 +23,14 @@ params:
         relative: true
         hidden: false
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
 ---
+{{< carousel >}}
+/img/stationSentinels/1.png
+/img/stationSentinels/2.png
+/img/stationSentinels/3.png
+{{< /carousel >}}
+
 A top down shooter with procedural levels
 
 Created for the Game Programming and System Architectures Module at Abertay University, this project was a collaboration with another student where we made a top down shooter using Abertay's Games Education Framework.

@@ -32,3 +32,9 @@ A Horde Shooter FPS where you score to advance the music!
 Developed for the Audio Programming Module at Abertay University, this game takes the song HATEFUL by the band HEALTH and uses it dynamically in an arena shooter against relentless rats.
 
 Features Horizontal and Vertical dynamic music, where gaining score progresses the song, and shooting the gun causes the drum track to play. Getting a higher score multiplier increases the volume of vocals.
+
+{{< carousel >}}
+/img/ratWars/1.png
+/img/ratWars/2.png
+/img/ratWars/3.png
+{{< /carousel >}}

@@ -25,12 +25,19 @@ tags: ["C++", "XR", "Unreal Engine", "Blueprint"]
 params:
     cover:
         image: "/img/halfBaked/cover.png" # path to your image
-        alt: "DirectX11 Cover Image"
+        alt: "Half-Baked Cover Image"
         relative: true
         hidden: false
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
 ---
+
+{{< carousel >}}
+/img/halfBaked/2.png
+/img/halfBaked/3.png
+/img/halfBaked/cover.png
+{{< /carousel >}}
+
 A wacky VR puzzle game where the player has no legs and must use their floppy half-baked arms to drag themselves and climb through the environment.
 
 Made for the Professional Project Module at Abertay University, production took place from January to May 2024 in my third year of study.

@@ -23,9 +23,16 @@ params:
         relative: true
         hidden: false
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
 
 ---
+
+{{< carousel >}}
+/img/vanishingAct/1.png
+/img/vanishingAct/2.png
+/img/vanishingAct/3.png
+/img/vanishingAct/4.png
+{{< /carousel >}}
 
 A survival horror game where you collect items and manage inventory space to finish a ritual to escape the feds!
 

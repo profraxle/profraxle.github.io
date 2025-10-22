@@ -23,8 +23,13 @@ params:
         relative: true
         hidden: false
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
 ---
+{{< carousel >}}
+/img/goat/2.png
+/img/goat/3.png
+{{< /carousel >}}
+
 A platformer where you can use your past self to get a leg up! Jump on your corpses to succeed!
 
 My first time properly using Unity, Greatest of All Turtle was developed for AGDS freshers jam 2022.

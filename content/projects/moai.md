@@ -15,6 +15,7 @@ summary: |
 
 tags: ["C#", "Unity","Game Jam"]
 
+
 params:
     cover:
         image: "/img/moai/1.png" # path to your image
@@ -22,8 +23,15 @@ params:
         relative: true
         hidden: false
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
 ---
+{{< carousel >}}
+/img/moai/1.png
+/img/moai/2.png
+/img/moai/3.png
+/img/moai/4.png
+{{< /carousel >}}
+
 A satirical horror game, riffing on the cliches of early 2010s viral horror games.
 
 I worked on enemy behaviour mechanics, diagetic UI and modelling and environment design.

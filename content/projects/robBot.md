@@ -21,9 +21,15 @@ params:
         relative: true
         hidden: false
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
 
 ---
+{{< carousel >}}
+/img/robbot/1.png
+/img/robbot/2.png
+/img/robbot/3.png
+{{< /carousel >}}
+
 A silly stealth heist game where you guide a robot dog through security cameras.
 
 Created for AGDS freshers jam 2023, this was the first time I worked with UE5. I worked on enemy patrolling, the camera system and level design

@@ -6,7 +6,7 @@ hideMeta: true
 
 weight: 5
 
-tags: ["C++", "WWIse", "Unreal Engine", "Blueprint","Game Jam"]
+tags: ["C++", "Unreal Engine", "Blueprint","Game Jam"]
 
 summary: |
         Creepy fishing simulator where you collect wacky items forever
@@ -17,12 +17,22 @@ summary: |
 params:
     cover:
         image: "/img/fishyphus/1.png" # path to your image
-        alt: "DirectX11 Cover Image"
+        alt: "                "
         relative: true
         hidden: false
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
 ---
+
+{{< carousel >}}
+/img/fishyphus/1.png
+/img/fishyphus/2.png
+/img/fishyphus/3.png
+/img/fishyphus/4.png
+{{< /carousel >}}
+
 A creepy fishing simulator where you collect wacky items forever.
 
-This game was created for AGDS halloween jam 2024. I programmed the item system for fished up items. I also used my PSX shaders to give the game a retro feel.
+This game was created for AGDS halloween jam 2024.
+
+I programmed the item system for this game, using Unreal's Data Asset system 

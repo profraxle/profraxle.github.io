@@ -41,7 +41,15 @@ hideSummary: false
 
 ADORATE is a town-builder casual RTS where you assume the role of an evil god, amassing a cult and fending off invading holy forces.
 
-![Screenshot of gameplay](/img/adorate/screen1.jpg)
+{{< carousel >}}
+/img/adorate/1.jpg
+/img/adorate/2.jpg
+/img/adorate/3.jpg
+/img/adorate/4.jpg
+/img/adorate/5.jpg
+/img/adorate/6.jpg
+{{< /carousel >}}
+
 
 On this project I was a generalist programmer, taking on tasks such as:
 
@@ -52,5 +60,7 @@ On this project I was a generalist programmer, taking on tasks such as:
 
 
 The playtest for ADORATE is available now on Steam, where you can check out the progress we have made so far! We have big plans at Fishbowl Studio for full production, so make sure to wishlist the game!
+
+
 
 <iframe src="https://store.steampowered.com/widget/3892430/" frameborder="0" width="100%" height="190"></iframe>

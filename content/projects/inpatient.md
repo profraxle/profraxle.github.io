@@ -21,9 +21,16 @@ params:
         relative: true
         hidden: false
         hiddenInList: false
-        hiddenInSingle: false
+        hiddenInSingle: true
 
 ---
+
+{{< carousel >}}
+/img/inpatient/1.png
+/img/inpatient/2.png
+/img/inpatient/3.png
+/img/inpatient/4.png
+{{< /carousel >}}
 
 A psychological horror game where the player is confined and slowly gives away parts of themselves.
 
