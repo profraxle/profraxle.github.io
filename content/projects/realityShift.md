@@ -29,7 +29,11 @@ A mixed reality tabletop card game client developed for the Meta Quest 3.
 
 Developed for my honours project at Abertay University, Reality Shift allows people to play tabletop card games together over the internet in a shared XR environment.
 
-Developed in Unity 6, Meta's Mixed Reality SDKs have been used to allow for a hybrid gameplay experience, with digital objects being used in a real environment.
+Integrated Meta's XR SDK to handle spatial anchoring, pass-through layer blending, and real-time environment interaction, ensuring a seamless blend between digital assets and the physical room.
+
+Utilized Meta’s hand-tracking APIs to create intuitive, physics-based gesture controls, translating natural hand movements into stable gameplay interactions like drawing, flipping, and playing cards.
+
+Engineered an asynchronous API integration with Scryfall to dynamically parse text-based decklists, fetch external card metadata, and stream image textures over HTTP, caching assets at runtime to prevent gameplay hitches.
 
 {{< carousel >}}
 /img/realityShift/3.png

@@ -54,12 +54,12 @@ ADORATE is a town-builder casual RTS where you assume the role of an evil god, a
 On this project I was a generalist programmer, taking on tasks such as:
 
 - Implementing enemy AI behaviours with behaviour trees
-- Creating Toon and Inverse Hull outline shaders
+- Utilising Unreal Engine's material editor to create a inverse hull based outline and toon-style shader.
 - Designing and implementing player and enemy abilities using Unreal's Gameplay Ability System
 - Implementing Audio and a dynamic music track using WWise
 
 
-The playtest for ADORATE is available now on Steam, where you can check out the progress we have made so far! We have big plans at Fishbowl Studio for full production, so make sure to wishlist the game!
+The playtest for ADORATE is available now on Steam, while the full version is still in active development!
 
 
 
