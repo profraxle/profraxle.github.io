@@ -3,8 +3,8 @@ date: '2025-10-06T00:15:09+01:00'
 
 params:
     cover:
-        image: "/img/adorate/cover.png" # path to your image
-        alt: "ADORATE cover image"
+        image: "/img/FAround/cover.png" # path to your image
+        alt: "F Around Cover Image"
         relative: true
         hidden: false
         hiddenInList: false
@@ -37,12 +37,10 @@ hideSummary: false
 F!#&CK AROUND AND FIND (your way) OUT is an Asymmetric Co-Op game where a maze runner and controller feed back with eachother to reach the exit! Codes and information is fed back to the "Guy in the chair" who by process of elimination activates doors to help the runner reach the goal or inadvertendly activate deadly traps!
 
 {{< carousel >}}
-/img/adorate/1.jpg
-/img/adorate/2.jpg
-/img/adorate/3.jpg
-/img/adorate/4.jpg
-/img/adorate/5.jpg
-/img/adorate/6.jpg
+/img/FAround/1.png
+/img/FAround/2.png
+/img/FAround/3.png
+/img/FAround/4.png
 {{< /carousel >}}
 
 
@@ -52,8 +50,6 @@ On this project I was a Network/Gameplay Programmer, taking on tasks such as:
 - Set up the Game Mode to ensure asymmetrical gameplay functions when playing the game.
 
 
-The playtest for ADORATE is available now on Steam, while the full version is still in active development!
 
 
-
-<iframe frameborder="0" src="https://itch.io/embed/3384132?dark=true" width="552" height="167"><a href="https://fraxle.itch.io/f-around-and-find-out">F!#&amp;CK AROUND AND FIND (your way) OUT by fraxle, No1Goblin</a></iframe>
+<iframe frameborder="0" src="https://itch.io/embed/3384132?dark=true" width="100%" height="190"><a href="https://fraxle.itch.io/f-around-and-find-out">F!#&amp;CK AROUND AND FIND (your way) OUT by fraxle, No1Goblin</a></iframe>
