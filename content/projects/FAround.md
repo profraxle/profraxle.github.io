@@ -36,6 +36,9 @@ hideSummary: false
 
 F!#&CK AROUND AND FIND (your way) OUT is an Asymmetric Co-Op game where a maze runner and controller feed back with eachother to reach the exit! Codes and information is fed back to the "Guy in the chair" who by process of elimination activates doors to help the runner reach the goal or inadvertendly activate deadly traps!
 
+
+This game can be fully palyed with two players using the PC version, or one player on PC and another running the Nintendo DS version!
+
 {{< carousel >}}
 /img/FAround/1.png
 /img/FAround/2.png
@@ -47,7 +50,8 @@ F!#&CK AROUND AND FIND (your way) OUT is an Asymmetric Co-Op game where a maze r
 On this project I was a Network/Gameplay Programmer, taking on tasks such as:
 
 - Implementing Replication in the gameplay mode using two Unreal Engine instances.
-- Set up the Game Mode to ensure asymmetrical gameplay functions when playing the game.
+- Set up the Game Mode to ensure asymmetrical gameplay functions when playing the game, while maintaining a synchronised game state.
+- Designed the level and also the general gameplay loop.
 
 
 
