@@ -148,7 +148,7 @@ menu:
 
     - identifier: CV
       name: CV
-      url: /CV.pdf
+      url: /CV/
       weight: 40
       
       target: "_blank"
