@@ -6,18 +6,18 @@ hideMeta: true
 
 weight: 5
 
-tags: ["C++", "Unreal Engine", "Blueprint","Game Jam"]
+tags: ["C++", "Unreal Engine", "Blueprint", "Game Jam"]
 
 summary: |
         Creepy fishing simulator where you collect wacky items forever
 
         <br>
-        Created for for AGDS Spooky Jam 2024
+        Created for AGDS Spooky Jam 2024
 
 params:
     cover:
-        image: "/img/fishyphus/1.png" # path to your image
-        alt: "                "
+        image: "/img/fishyphus/1.png"
+        alt: "Fishyphus creepy fishing simulator screenshot"
         relative: true
         hidden: false
         hiddenInList: false
@@ -31,8 +31,8 @@ params:
 /img/fishyphus/4.png
 {{< /carousel >}}
 
-A creepy fishing simulator where you collect wacky items forever.
+A creepy fishing simulator where you collect wacky items forever, with no end in sight.
 
-This game was created for AGDS halloween jam 2024.
+Created for AGDS Spooky Jam 2024, this project leaned into an unsettling, Sisyphean loop — always another item to reel in.
 
-I programmed the item system for this game, using Unreal's Data Asset system 
+I programmed the item system for this game, using Unreal's Data Asset system to define each catch as a self-contained, designer-editable asset rather than hardcoding item data into Blueprints — making it fast for the team to add new items during the jam without touching code.

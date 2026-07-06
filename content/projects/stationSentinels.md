@@ -8,35 +8,34 @@ weight: 7
 tags: ["C++", "Procedural Generation", "Pathfinding"]
 
 summary: |
-    Top down shooter with procedural levels.
+    Top-down shooter with procedurally generated levels.
 
-    Made with Abertay's Game Education Framework.
+    Built with Abertay's Game Education Framework.
 
-    Features tile based level generation and A* Pathfinding for enemies.
-
-    
+    Features tile-based level generation and A* pathfinding for enemies.
 
 params:
     cover:
-        image: "/img/stationSentinels/1.png" # path to your image
-        alt: "DirectX11 Cover Image"
+        image: "/img/stationSentinels/1.png"
+        alt: "Station Sentinels top-down shooter cover image"
         relative: true
         hidden: false
         hiddenInList: false
         hiddenInSingle: true
 ---
+
 {{< carousel >}}
 /img/stationSentinels/1.png
 /img/stationSentinels/2.png
 /img/stationSentinels/3.png
 {{< /carousel >}}
 
-A top down shooter with procedural levels
+A top-down shooter with procedurally generated levels.
 
-Created for the Game Programming and System Architectures Module at Abertay University, this project was a collaboration with another student where we made a top down shooter using Abertay's Games Education Framework.
+Built for the Game Programming and System Architectures module at Abertay University, in a two-person team, using Abertay's Games Education Framework.
 
 I mainly worked on:
 
-    Tile Based Level Generation
-    Enemy AI and A Star Pathfinding
-    3D Modelling
+- **Tile-based level generation** — procedurally assembling station layouts from a set of tiles each playthrough, so no two runs are identical
+- **Enemy AI and A\* pathfinding** — routing enemies through the procedurally generated tile grid in real time as it changes
+- **3D modelling** — creating props and environment assets for the station interior

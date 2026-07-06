@@ -25,7 +25,7 @@ summary: |
   Role: Generalist Programmer/Audio Programmer
   
   <br>
-  Casual RTS Townbuilder! Build up your cult and fight off holy forces!
+  Adorably Evil RTS Town-Builder! Build up your cult and fight off holy forces!
 
   <br><br>
   Wishlist now on Steam!

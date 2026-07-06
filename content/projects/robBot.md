@@ -6,30 +6,30 @@ hideMeta: true
 weight: 7
 
 summary: |
-    Silly heist game where you control a robot dog through security cameras!
+    Silly heist game where you guide a robot dog through a building via its security cameras.
 
     <br>
-    Created for AGDS Fresher Jam 2023
+    Created for AGDS Freshers Jam 2023
 
-
-tags: ["Unreal Engine", "Blueprint","Game Jam"]
+tags: ["Unreal Engine", "Blueprint", "Game Jam"]
 
 params:
     cover:
-        image: "/img/robbot/1.png" # path to your image
-        alt: "DirectX11 Cover Image"
+        image: "/img/robbot/1.png"
+        alt: "Rob-Bot stealth heist game cover image"
         relative: true
         hidden: false
         hiddenInList: false
         hiddenInSingle: true
 
 ---
+
 {{< carousel >}}
 /img/robbot/1.png
 /img/robbot/2.png
 /img/robbot/3.png
 {{< /carousel >}}
 
-A silly stealth heist game where you guide a robot dog through security cameras.
+A silly stealth heist game where you guide a robot dog through a building, hopping between its own security cameras to avoid detection.
 
-Created for AGDS freshers jam 2023, this was the first time I worked with UE5. I worked on enemy patrolling, the camera system and level design
+Built for AGDS Freshers Jam 2023 — my first project in UE5 — I worked on enemy patrolling behaviour, the camera-hopping system at the core of the stealth loop, and level design.

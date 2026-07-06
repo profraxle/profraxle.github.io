@@ -9,7 +9,7 @@ weight: 4
 tags: ["C++", "Unreal Engine", "Blueprint", "Game Jam"]
 
 summary: |
-    PSX Survival horror with a spatial inventory.
+    PSX-style survival horror with a spatial inventory.
 
     Play as a witch performing a ritual to escape a monstrous federal agent!
 
@@ -18,8 +18,8 @@ summary: |
 
 params:
     cover:
-        image: "/img/vanishingAct/1.png" # path to your image
-        alt: "DirectX11 Cover Image"
+        image: "/img/vanishingAct/1.png"
+        alt: "Vanishing Act PSX-style survival horror game cover image"
         relative: true
         hidden: false
         hiddenInList: false
@@ -34,6 +34,6 @@ params:
 /img/vanishingAct/4.png
 {{< /carousel >}}
 
-A survival horror game where you collect items and manage inventory space to finish a ritual to escape the feds!
+A PSX-style survival horror game where you collect items and manage limited inventory space to complete a ritual and escape a monstrous federal agent.
 
-This game was created for AGDS freshers jam 2024. For this project, I programmed the spatial inventory and item systems. I also programmed PSX shader effects to give this project a retro feel.
+Built for AGDS Freshers Jam 2024, I programmed the spatial inventory and item systems — where item shape and orientation matter, not just count — and implemented PSX-era shader effects (vertex jitter, affine texture warping, low-res dithering) to give the game an authentic retro feel.

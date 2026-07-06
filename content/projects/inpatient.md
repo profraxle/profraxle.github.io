@@ -6,18 +6,18 @@ hideMeta: true
 weight: 7
 
 summary: |
-    Psychological horror game over multiple days with the player slowly giving away parts of themselves.
+    Psychological horror unfolding over multiple in-game days, as the player slowly gives away parts of themselves.
 
     <br>
 
     Created for AGDS Spooky Jam 2023
 
-tags: ["C++", "Unreal Engine", "Blueprint","Game Jam"]
+tags: ["C++", "Unreal Engine", "Blueprint", "Game Jam"]
 
 params:
     cover:
-        image: "/img/inpatient/1.png" # path to your image
-        alt: "DirectX11 Cover Image"
+        image: "/img/inpatient/1.png"
+        alt: "Inpatient psychological horror game screenshot"
         relative: true
         hidden: false
         hiddenInList: false
@@ -32,6 +32,6 @@ params:
 /img/inpatient/4.png
 {{< /carousel >}}
 
-A psychological horror game where the player is confined and slowly gives away parts of themselves.
+A psychological horror game where the player is confined to a single room, slowly giving away parts of themselves over the course of several in-game days.
 
-This game was created for AGDS halloween jam 2023. My role was programmer/level designer.
+Built for AGDS Spooky Jam 2023, where my role was programmer and level designer — structuring the day-to-day progression of the room and pacing the reveals as the player's situation deteriorates.
