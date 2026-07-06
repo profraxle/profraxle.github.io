@@ -106,7 +106,7 @@ params:
       url: "https://www.linkedin.com/in/fraser-mccann/"
     - name: github
       url: "https://github.com/profraxle"
-    - name: itch.io
+    - name: itchio
       url: "https://fraxle.itch.io"
 
   analytics:
