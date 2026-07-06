@@ -42,3 +42,5 @@ On this project I implemented:
 /img/ratWars/2.png
 /img/ratWars/3.png
 {{< /carousel >}}
+
+[View source on GitHub →](https://github.com/profraxle/RatWars)
