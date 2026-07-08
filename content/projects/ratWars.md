@@ -40,3 +40,5 @@ On this project I implemented:
 {{< youtube q5mRv7LwrSU >}}
 
 [View source on GitHub →](https://github.com/profraxle/RatWars)
+
+<iframe frameborder="0" src="https://itch.io/embed/3187351?bg_color=000000&amp;fg_color=ffffff&amp;link_color=ef0c0c&amp;border_color=333333" width="100%" height="167"><a href="https://fraxle.itch.io/rat-wars">RAT WARS by fraxle</a></iframe>

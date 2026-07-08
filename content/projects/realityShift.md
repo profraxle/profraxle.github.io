@@ -44,4 +44,6 @@ On this project I:
 /img/realityShift/2.png
 {{< /carousel >}}
 
+[View source on GitHub →](https://github.com/profraxle/Reality-Shift)
+
 

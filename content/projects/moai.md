@@ -35,3 +35,5 @@ params:
 A satirical horror game riffing on the clichés of early-2010s viral horror titles — escape a creepy island while hunted by an evil Moai statue.
 
 Built for AGDS Spooky Jam 2022, I worked on the Moai's enemy behaviour and hunting logic, diegetic UI elements woven into the environment rather than screen overlays, and modelling and environment design for the island itself.
+
+<iframe frameborder="0" src="https://itch.io/embed/1769226?bg_color=000000&amp;fg_color=ff1616&amp;link_color=fa5c5c&amp;border_color=333333" width="100%" height="167"><a href="https://fraxle.itch.io/touching-the-moai-is-forbidden">Touching the Moai is Forbidden by fraxle, LemmieSix, beeguy</a></iframe>

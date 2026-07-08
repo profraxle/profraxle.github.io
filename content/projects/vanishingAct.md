@@ -37,3 +37,5 @@ params:
 A PSX-style survival horror game where you collect items and manage limited inventory space to complete a ritual and escape a monstrous federal agent.
 
 Built for AGDS Freshers Jam 2024, I programmed the spatial inventory and item systems — where item shape and orientation matter, not just count — and implemented PSX-era shader effects (vertex jitter, affine texture warping, low-res dithering) to give the game an authentic retro feel.
+
+<iframe frameborder="0" src="https://itch.io/embed/3005669?bg_color=0b0604&amp;fg_color=b88f6c&amp;link_color=e2474d&amp;border_color=333333" width="100%" height="167"><a href="https://beeguy.itch.io/vanishing-act">Vanishing Act by beeguy, fraxle, No1Goblin, MALI, Veera287</a></iframe>

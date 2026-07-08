@@ -39,3 +39,5 @@ I mainly worked on:
 - **Tile-based level generation** — procedurally assembling station layouts from a set of tiles each playthrough, so no two runs are identical
 - **Enemy AI and A\* pathfinding** — routing enemies through the procedurally generated tile grid in real time as it changes
 - **3D modelling** — creating props and environment assets for the station interior
+
+<iframe frameborder="0" src="https://itch.io/embed/2102307?bg_color=000000&amp;fg_color=3347c3&amp;link_color=5b82fa&amp;border_color=333333" width="100%" height="167"><a href="https://fraxle.itch.io/station-sentinels">Station Sentinels by fraxle, No1Goblin</a></iframe>
