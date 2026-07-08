@@ -37,6 +37,8 @@ On this project I implemented:
 - **Horizontal and vertical dynamic music** — gaining score progresses the song horizontally through its sections, while firing the gun triggers the drum layer vertically, live over the current section
 - **Score-multiplier-driven mixing** — building a higher multiplier by avoiding missed shots gradually raises the volume of the vocal track, tying the intensity of the mix directly to how well the player is doing
 
+{{< youtube q5mRv7LwrSU >}}
+
 {{< carousel >}}
 /img/ratWars/1.png
 /img/ratWars/2.png
