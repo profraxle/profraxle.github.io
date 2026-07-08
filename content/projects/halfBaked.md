@@ -30,14 +30,16 @@ params:
         hiddenInSingle: true
 ---
 
-{{< carousel >}}
-/img/halfBaked/2.png
-/img/halfBaked/3.png
-/img/halfBaked/cover.png
-{{< /carousel >}}
+Watch the trailer:
+{{< youtube elSdrCIS7N8 >}}
+
+Watch the Playthrough:
+{{< youtube UScR31RTEaw >}}
 
 A wacky VR puzzle game where the player has no legs, and must use their floppy half-baked arms to drag themselves and climb through the environment to escape the clutches of the evil baker.
 
 Built for the Professional Project module at Abertay University with mentorship from NearLight, production ran from January to May 2024 during my third year of study.
 
 I was the VR mechanics programmer, focused primarily on the core player controller — building a physically-driven, two-handed climbing and dragging system that had to feel readable and controllable in VR despite the character having no legs to anchor movement.
+
+<iframe frameborder="0" src="https://itch.io/embed/2517138?bg_color=f3c69f&amp;fg_color=501800&amp;link_color=fcdef0&amp;border_color=cd7048" width="100%" height="167"><a href="https://crows-in-a-crisis.itch.io/half-baked">Half-Baked by Crows in a Crisis</a></iframe>
