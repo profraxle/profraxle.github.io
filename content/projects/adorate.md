@@ -50,6 +50,8 @@ ADORATE is a town-builder casual RTS where you assume the role of an evil god, a
 /img/adorate/6.jpg
 {{< /carousel >}}
 
+{{< youtube UScR31RTEaw >}}
+
 
 On this project I was a generalist programmer, taking on tasks such as:
 
@@ -57,6 +59,8 @@ On this project I was a generalist programmer, taking on tasks such as:
 - Utilising Unreal Engine's material editor to create a inverse hull based outline and toon-style shader.
 - Designing and implementing player and enemy abilities using Unreal's Gameplay Ability System
 - Implementing Audio and a dynamic music track using WWise
+
+
 
 
 The playtest for ADORATE is available now on Steam, while the full version is still in active development!
