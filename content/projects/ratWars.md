@@ -39,10 +39,4 @@ On this project I implemented:
 
 {{< youtube q5mRv7LwrSU >}}
 
-{{< carousel >}}
-/img/ratWars/1.png
-/img/ratWars/2.png
-/img/ratWars/3.png
-{{< /carousel >}}
-
 [View source on GitHub →](https://github.com/profraxle/RatWars)
