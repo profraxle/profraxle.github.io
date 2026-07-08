@@ -37,9 +37,11 @@ On this project I:
 - Used Meta's hand-tracking APIs to build intuitive, physics-based gesture controls, translating natural hand movements into stable gameplay interactions like drawing, flipping, and playing cards
 - Engineered an asynchronous integration with the Scryfall API to dynamically parse text-based decklists, fetch card metadata, and stream image textures over HTTP — caching assets at runtime to prevent gameplay hitches when new cards were drawn
 
+{{< youtube d5f73D9zxCQ >}}
+
 {{< carousel >}}
 /img/realityShift/3.png
 /img/realityShift/2.png
 {{< /carousel >}}
 
-{{< youtube d5f73D9zxCQ >}}
+
